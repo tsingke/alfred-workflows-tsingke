@@ -1,4 +1,4 @@
-## Alfred Workflows
+## Alfred Workflows(支持最新Alfred4+)
 
 **使用说明：**
 
